@@ -1,5 +1,5 @@
 (ns cz.lattis.clojure.collections.Lists)
-
+; http://java.ociweb.com/mark/clojure/article.html#Lists
 
 ; few ways how to create list
 (def items (list "one" "two" "three" "four"))

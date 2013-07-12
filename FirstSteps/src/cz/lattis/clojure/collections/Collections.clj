@@ -1,5 +1,5 @@
 (ns cz.lattis.clojure.Collections)
-
+; http://java.ociweb.com/mark/clojure/article.html#Collections
 ; Collection operations
 ; count : return number of items in any collection
 ; conj : adds one or more items into a collection
